@@ -10,7 +10,7 @@ This is a solution to the [Design preview for the FAQ accordion coding challenge
 
 ### Links
 
-- Live Site URL: [FAQ accordion]()
+- Live Site URL: [FAQ accordion](https://pylopes.github.io/faq-accordion/)
 
 ### Built with
 
