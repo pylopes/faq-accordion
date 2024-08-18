@@ -1,5 +1,5 @@
 const button = document.querySelectorAll("button");
-const img = document.querySelectorAll("#button-img");
+const img = document.querySelectorAll(".button-img");
 const answer = document.querySelectorAll(".answer");
 
 
